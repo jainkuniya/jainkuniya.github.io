@@ -88,3 +88,8 @@ The overall experience was very good. If you love trekking, then this trek is fo
 Then we went to a few more places, like [Bali Handara Gate](https://www.google.com/search?sxsrf=ACYBGNR70ODK3wr5_fV0bcwwCsmp3ElvFg%3A1580583817263&ei=ics1XsHmD_qe4-EP87WjsAQ&q=handara+gate+bali&oq=handara+gate+bali&gs_l=psy-ab.3..0j0i7i30l3j0j0i7i30j0l4.4802.5722..5956...0.3..0.150.973.0j7......0....1..gws-wiz.......0i71j0i7i10i30.1tnOzEtQthg&ved=0ahUKEwiBz9zHhbHnAhV6zzgGHfPaCEYQ4dUDCAs&uact=5#). I will write another blog post in this series to share my first Bali trip.
 
 Till then have a good time.
+
+
+---
+**Disclaimer:**
+- All photos captured from [One Plus six](https://www.oneplus.in/6) and [GoPro 8](https://gopro.com/en/in/shop/cameras/hero8-black/CHDHX-801-master.html)
