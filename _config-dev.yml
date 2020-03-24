@@ -3,4 +3,4 @@
 url: http://localhost:4000
 
 # To enable google analytics, supply your token below
-analytics-google: "UA-10fdasdsa4769451-1"
+analytics-google: ""
