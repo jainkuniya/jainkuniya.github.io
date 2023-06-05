@@ -2,29 +2,28 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am Vishwesh Jainkuniya, sophomore from <a href="http://www.lnmiit.ac.in/">The LNM Institute of Information Technology Jaipur</a> pursuing B.Tech in Computer Science and Engineering. </p>
+Welcome to my About page! I'm Vishwesh Jainkuniya, and I'm excited to share a little bit about myself with you. I am a passionate individual with a strong interest in technology and a drive to make a positive impact in the world.
 
-<p>For the past one and a half year, I have been exploring the world of android. I love trying new stuff. My main focus is on creating apps that are delightful and enchant the users. Apps which reduces human efforts and helps in day to day life.</p>
+I have always been fascinated by the potential of technology to solve complex problems and improve people's lives. From an early age, I immersed myself in the world of computers, coding, and software development. This passion led me to pursue a career in the field of computer science.
 
-<h2>Skills</h2>
+As a software developer, I have honed my skills in various programming languages and frameworks. I enjoy taking on challenging projects and finding innovative solutions to problems. I believe that by continuously learning and adapting to new technologies, we can stay ahead of the curve and make a meaningful difference in our rapidly evolving digital landscape.
 
-<ul class="skill-list">
-	<li>Android</li>
-	<li>JAVA</li>
-	<li>XML</li>
-	<li>HTML/CSS</li>
-	<li>MySql</li>
-	<li>PHP</li>
-	<li>Javascript</li>
-	<li>React-Native</li>
-	<li>Git</li>
-</ul>
+You can find me on various social media platforms, where I actively engage with the tech community and share my insights and experiences. Connect with me on:
 
-<h2>Projects</h2>
+- Twitter: [Twitter.com/jainkuniya](https://twitter.com/jainkuniya) 
+- GitHub: [GitHub.com/jainkuniya](https://github.com/jainkuniya)
+- Instagram: [Instagram.com/jainkuniya](https://www.instagram.com/jainkuniya/)
+- LinkedIn: [LinkedIn.com/in/jainkuniya](https://www.linkedin.com/in/jainkuniya/)
 
-<ul>
-	<li><a href="http://bit.ly/college-plus">College Plus</a></li>
-	<li><a href="http://bit.ly/udhaar-app">Udhaar</a></li>
-</ul>
+Feel free to reach out to me through any of these platforms. I'm always open to collaborating on exciting projects, discussing the latest technological advancements, or simply having a meaningful conversation.
+
+If you're interested in learning more about my professional background and expertise, please take a look at my resume [here](https://jainkuniya.github.io/pdfjs-1/web/viewer.html). It provides an overview of my skills, experiences, and the projects I have worked on.
+
+Thank you for visiting my About page. I look forward to connecting with you and exploring the endless possibilities that technology offers together. Let's make a positive impact!
+
+Best regards,
+
+Vishwesh Jainkuniya
