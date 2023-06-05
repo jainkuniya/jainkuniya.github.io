@@ -2,44 +2,28 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Welcome to my About page! I'm Vishwesh Jainkuniya, and I'm excited to share a little bit about myself with you. I am a passionate individual with a strong interest in technology and a drive to make a positive impact in the world.
 
-<h2>Skills</h2>
+I have always been fascinated by the potential of technology to solve complex problems and improve people's lives. From an early age, I immersed myself in the world of computers, coding, and software development. This passion led me to pursue a career in the field of computer science.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+As a software developer, I have honed my skills in various programming languages and frameworks. I enjoy taking on challenging projects and finding innovative solutions to problems. I believe that by continuously learning and adapting to new technologies, we can stay ahead of the curve and make a meaningful difference in our rapidly evolving digital landscape.
 
-<h2>Projects</h2>
+You can find me on various social media platforms, where I actively engage with the tech community and share my insights and experiences. Connect with me on:
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+- Twitter: [Twitter.com/jainkuniya](https://twitter.com/jainkuniya) 
+- GitHub: [GitHub.com/jainkuniya](https://github.com/jainkuniya)
+- Instagram: [Instagram.com/jainkuniya](https://www.instagram.com/jainkuniya/)
+- LinkedIn: [LinkedIn.com/in/jainkuniya](https://www.linkedin.com/in/jainkuniya/)
+
+Feel free to reach out to me through any of these platforms. I'm always open to collaborating on exciting projects, discussing the latest technological advancements, or simply having a meaningful conversation.
+
+If you're interested in learning more about my professional background and expertise, please take a look at my resume [here](https://jainkuniya.github.io/pdfjs-1/web/viewer.html). It provides an overview of my skills, experiences, and the projects I have worked on.
+
+Thank you for visiting my About page. I look forward to connecting with you and exploring the endless possibilities that technology offers together. Let's make a positive impact!
+
+Best regards,
+
+Vishwesh Jainkuniya
