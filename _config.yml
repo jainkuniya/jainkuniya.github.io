@@ -10,7 +10,7 @@ description: My personal corner
 external-image: false
 picture: assets/images/2017-02-09-17-44-10-227.jpg
 
-# your site color theme, true for dark theme, 
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: auto
 
@@ -26,7 +26,7 @@ url: https://jainkuniya.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: "UA-104769451-1"
+analytics-google: 'UA-104769451-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -106,3 +106,56 @@ gems:
 
 jekyll-mentions:
   base_url: https://github.com/
+
+portfolio:
+  talks:
+    - logo: /assets/portfolio/reactindia.jpeg
+      name: React India
+      link: https://www.reactindia.io/speakers/vishwesh-jainkuniya
+      slides: https://twitter.com/jainkuniya/status/1572942681302761472?s=20&t=UovBQe6BasAWpD9yTKz0RA
+      title: Building loader free online apps
+  companies:
+    - logo: /assets/portfolio/eka.webp
+      name: eka.care
+      link: https://eka.care
+      designation: Lead Engineer
+    - logo: /assets/portfolio/predictgrowth.png
+      name: Predict Growth
+      link: https://predictgrowth.ai
+      designation: Tech Adviser
+    - logo: /assets/portfolio/beeceptor.png
+      name: Beeceptor
+      link: https://beeceptor.com
+      designation: Product & Tech Adviser    
+    - logo: /assets/portfolio/gojek.png
+      name: GoJek (GoTo)
+      link: https://goto.com
+      designation: Product Engineer
+    - logo: /assets/portfolio/tealfeed.png
+      name: Tealfeed
+      link: https://tealfeed.com
+      designation: Tech Adviser & Mentor
+    - logo: /assets/portfolio/renderpdf.svg
+      name: RenderPDF
+      link: https://tealfeed.com
+      designation: Product Adviser
+    - logo: /assets/portfolio/zulip.png
+      name: Zulip
+      link: https://zulip.org
+      designation: Mobile enginner
+    - logo: /assets/portfolio/facebook.webp
+      name: RN @ Facebook
+      link: https://zulip.org
+      designation: Open source contributor
+    - logo: /assets/portfolio/gsoc.png
+      name: Google Summer of Code
+      link: https://summerofcode.withgoogle.com/
+      designation: Mentor
+    - logo: /assets/portfolio/mrhot.png
+      name: Mr Hot
+      link: https://www.crunchbase.com/organization/mr-hot-foods
+      designation: Full Stack Developer
+    - logo: /assets/portfolio/liveunite.jpeg
+      name: Liveunite
+      link: https://jainkuniya.github.io/project-liveunite/
+      designation: Full Stack Developer
