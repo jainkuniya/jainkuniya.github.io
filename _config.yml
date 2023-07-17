@@ -108,6 +108,9 @@ jekyll-mentions:
   base_url: https://github.com/
 
 portfolio:
+  music:
+    - link: https://www.instagram.com/reel/Cn5D4x2gXh5/
+    - link: https://www.instagram.com/reel/CqGTEIlg1AT/
   talks:
     - logo: /assets/portfolio/reactindia.jpeg
       name: React India
